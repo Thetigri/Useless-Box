@@ -6,7 +6,13 @@ A useless box machine i made as my first arduino project
 
 
 Structure of the readme
- -
+ - Title
+ - Description
+ - Image
+ - Material list
+ - Recomendations for 3D printing each piece
+ - Step by step guide maybe?
+ 
 Todo list:
   -Upload each part of the box
   - Material list
