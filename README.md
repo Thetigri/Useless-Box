@@ -16,4 +16,9 @@ Structure of the readme
 Todo list:
   -Upload each part of the box
   - Material list
+     -Electronics
+     -Miscelaneus
+       - 6 Zip ties
+       - 3D printer Filament (I used PLA) for the printed parts
+       - 1.75mm filament (again PLA) for the hinges of the lids
   - Building tutorial maybe ??
