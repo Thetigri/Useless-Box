@@ -6,12 +6,16 @@ A useless box machine i made as my first arduino project
 
 
 Structure of the readme
- - Title
- - Description
+ - Title : Useless Box
+ - Description: My first Robotics project about a toy box that shuts itself of if you try to turn it on,
+   currently it is missing two features that I really like. The first one is remote control via infrared
+   sensor which is already implemented via code but I burned my IR sensor and also i dont know if the ir
+   signals of the remote are universal because I hardcoded them.
  - Image
  - Material list
  - Recomendations for 3D printing each piece
  - Step by step guide maybe?
+ - List of Links
  
 Todo list:
   -Upload each part of the box
