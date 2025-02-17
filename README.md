@@ -33,5 +33,11 @@ Todo list:
        - 6 Zip ties
        - 3D printer Filament (I used PLA) for the printed parts
        - 1.75mm filament (again PLA) for the hinges of the lids
-  - Building tutorial maybe ??
-  - List of links i bought materials from
+  - List of links i bought materials from:
+       Servo motor:
+       Arduino Nano ripoff :
+       IR sensor + remote :
+       Toggle switch:
+    TODO: Find a way to shorten links because I bought almost everything on aliexpress and the links are too long
+       
+       
