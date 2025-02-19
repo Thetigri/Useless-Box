@@ -4,7 +4,7 @@
 This is my first robotics project – a toy box that shuts itself off if you try to turn it on. Currently, it's missing two key features that I'd love to add. The first one is remote control via an infrared sensor, which is already implemented in the code, but I burned my IR sensor. Additionally, I'm unsure if the IR signals from the remote are universal, as I hardcoded them.
 
 ## Image
-![Useless Box](image-placeholder.jpg)
+![Useless Box](https://github.com/user-attachments/assets/666d4b1d-c0aa-4b3d-af3e-66cad7212b69)
 
 ## Material List
 
