@@ -11,7 +11,7 @@ This is my first robotics project – a toy box that shuts itself off if you try
 ### Electronics
 - **Arduino Nano Ripoff** (from AliExpress)
 - **Small Breadboard** (not necessary)
-- **1 IR Arduino Sensor + Remote**
+- **1 IR Arduino Sensor + Remote** (not necessary, there is aversion without remote)
 - **Resistances** (I don't remember the exact values, will update later)
 - **USB-A to USB-C Cable** (this is for the Arduino Nano, if you have other arduino port use other cable)
 - **Small Arduino Servo Motor**
@@ -54,7 +54,8 @@ This is my first robotics project – a toy box that shuts itself off if you try
 -  [**Arduino Nano Ripoff**](https://es.aliexpress.com/item/1005006187928150.html?spm=a2g0o.cart.0.0.11817a9dF4HMNO&mp=1&gatewayAdapt=glo2esp)
 -  [**Servo Motor**](https://es.aliexpress.com/item/1005007173214082.html?spm=a2g0o.productlist.main.3.12b9OpbXOpbXVl&algo_pvid=4fa8ce3a-e8b5-472c-a247-ebf8b46f9c78&algo_exp_id=4fa8ce3a-e8b5-472c-a247-ebf8b46f9c78-1&pdp_ext_f=%7B"order"%3A"2380"%2C"eval"%3A"1"%7D&pdp_npi=4%40dis%21EUR%211.97%210.99%21%21%2114.59%217.36%21%402103849717400660012488578eaa8c%2112000039699110343%21sea%21ES%210%21ABX&curPageLogUid=ICZvGHkqtQgu&utparam-url=scene%3Asearch%7Cquery_from%3A)
 -  [**Toggle Switch**](https://es.aliexpress.com/item/4000413987958.html?spm=a2g0o.cart.0.0.11817a9dF4HMNO&mp=1&gatewayAdapt=glo2esp)
--  [**IR Sensor + Remote**](https://es.aliexpress.com/item/1005007728795025.html?spm=a2g0o.productlist.main.1.4ae7GwQGGwQGm9&algo_pvid=70ff00ed-e23f-413a-8c53-1d52e5e1f780&algo_exp_id=70ff00ed-e23f-413a-8c53-1d52e5e1f780-0&pdp_ext_f=%7B"order"%3A"239"%2C"eval"%3A"1"%7D&pdp_npi=4%40dis%21EUR%215.71%210.99%21%21%2142.34%217.32%21%40211b6c1917400673354016497e0207%2112000042708422076%21sea%21ES%210%21ABX&curPageLogUid=Z1bVlBDdUvRJ&utparam-url=scene%3Asearch%7Cquery_from%3A)
+-  [**Remote**](https://es.aliexpress.com/item/1005007728795025.html?spm=a2g0o.productlist.main.1.4ae7GwQGGwQGm9&algo_pvid=70ff00ed-e23f-413a-8c53-1d52e5e1f780&algo_exp_id=70ff00ed-e23f-413a-8c53-1d52e5e1f780-0&pdp_ext_f=%7B"order"%3A"239"%2C"eval"%3A"1"%7D&pdp_npi=4%40dis%21EUR%215.71%210.99%21%21%2142.34%217.32%21%40211b6c1917400673354016497e0207%2112000042708422076%21sea%21ES%210%21ABX&curPageLogUid=Z1bVlBDdUvRJ&utparam-url=scene%3Asearch%7Cquery_from%3A)
+-  [**IR sensor**](https://es.aliexpress.com/item/1005005343344128.html?spm=a2g0o.productlist.main.11.6d25ZltaZlta3g&algo_pvid=e5ac04fb-6441-4163-ad8e-c5d89141b312&algo_exp_id=e5ac04fb-6441-4163-ad8e-c5d89141b312-5&pdp_ext_f=%7B"order"%3A"410"%2C"eval"%3A"1"%7D&pdp_npi=4%40dis%21EUR%210.94%210.94%21%21%210.96%210.96%21%40211b629217400682890517801eaaee%2112000032684781301%21sea%21ES%210%21ABX&curPageLogUid=DE4hWA1ybdq2&utparam-url=scene%3Asearch%7Cquery_from%3A)
 
 ## Todo List
 
