@@ -45,7 +45,7 @@ This is my first robotics project – a toy box that shuts itself off if you try
    - Test the IR sensor and adjust the servo motor’s positioning.
 
 4. **Step 4: Program the Arduino**
-   - Upload the code to the Arduino Nano to control the box’s functionality.https://es.aliexpress.com/item/1005006187928150.html?spm=a2g0o.cart.0.0.11817a9dF4HMNO&mp=1&gatewayAdapt=glo2esp
+   - Upload the code to the Arduino Nano to control the box’s functionality.
    - Test the box to see if it responds to the toggle switch.
 
 ## List of Links
