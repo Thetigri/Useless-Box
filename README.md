@@ -29,7 +29,7 @@ This is my first robotics project – a toy box that shuts itself off if you try
 - If your printer supports it, consider printing at a lower resolution for non-critical parts to save time.
 
 ## Step-by-Step Guide
-(Consider including a brief step-by-step guide here for those interested in building their own Useless Box.)
+(I am considering including a brief step-by-step guide here for those interested in building their own Useless Box.)
 
 1. **Step 1: Assemble the Electronics**
    - Connect the Arduino Nano to the breadboard.
@@ -64,13 +64,8 @@ This is my first robotics project – a toy box that shuts itself off if you try
 
 - [ ] Upload each part of the box
 - [ ] Finalize material list (add missing resistor values)
-- [ ] Shorten links to AliExpress materials
 <!--# Useless-Box
 A useless box machine i made as my first arduino project
-
-
-![ScreenshotCajainutil](https://github.com/user-attachments/assets/666d4b1d-c0aa-4b3d-af3e-66cad7212b69)
-
 
 Structure of the readme
  - Title : Useless Box
@@ -104,5 +99,4 @@ Todo list:
        Servo motor:
        Arduino Nano ripoff :
        IR sensor + remote :
-       Toggle switch:
-    TODO: Find a way to shorten links because I bought almost everything on aliexpress and the links are too long-->
+       Toggle switch:-->
