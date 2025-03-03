@@ -30,7 +30,8 @@ This is my first robotics project – a toy box that shuts itself off if you try
 
 ## Step-by-Step Guide
 (I am considering including a brief step-by-step guide here for those interested in building their own Useless Box.)
-
+Real steps: 1-Assemble electronics, 2- download .ino file, 3- upload the code to the arduino, 4- if it works print the gear and arm parts, 5- test everything outside the box to make sure the motor can move everything, 
+6- print the box and assembel it with zip ties, /- Print the lids make and lube (optional but recomended) the hinges 8- Enjoy and feel free to ask about anything relateed to the project and hopefully i can help
 1. **Step 1: Assemble the Electronics**
    - Connect the Arduino Nano to the breadboard.
    - Wire up the IR sensor and servo motor.
